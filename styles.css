@@ -1,0 +1,40 @@
+.div1 {
+    color: red;
+    margin-bottom: 100px;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #78e07a;
+    width: 100%;
+}
+
+.div2 {
+    color:white;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(36, 164, 82);
+    height: 300px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+
+.parentdiv {
+    width: 100%;
+    display: flex;
+    flex-flow: wrap;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+.rocketimage {
+    width: 300px;
+    margin: auto;
+}
